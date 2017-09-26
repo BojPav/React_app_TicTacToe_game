@@ -1,4 +1,4 @@
-About
+# About
 
 Tic Tac Toe Game - React.js web application.
 
